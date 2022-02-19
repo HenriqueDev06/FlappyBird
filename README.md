@@ -25,8 +25,8 @@
 ## Instalação
 
 ```bash
-$ git clone https://github.com/JohanDev6/GAME_FlappyBird
-$ cd GAME_FlappyBird
+$ git clone https://github.com/HenriqueDev06/FlappyBird
+$ cd FlappyBird
 $ yarn build
 ```
 
@@ -34,14 +34,14 @@ $ yarn build
 
 #### Reporte bugs ou Features Request
 
-Porfavor use o [issue tracker](https://github.com/JohanDev6/GAME_FlappyBird/issues) para reportar bugs ou fazer push requests.
+Porfavor use o [issue tracker](https://github.com/HenriqueDev06/FlappyBird/issues) para reportar bugs ou fazer push requests.
 
 #### Developing
 
 Para PRs use o ambiente de desenvolvimento
 
 ```bash
-$ git clone https://github.com/JohanDev6/GAME_FlappyBird
-$ cd GAME_FlappyBird
+$ git clone https://github.com/HenriqueDev06/FlappyBird
+$ cd FlappyBird
 $ yarn start
 ```
